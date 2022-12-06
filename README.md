@@ -18,6 +18,6 @@ https://drive.google.com/drive/folders/12oHYj0qH2uZD8I13cVDiymTNDYldeJRa?usp=sha
 # Installation
   Requirement  
   
-Microsoft Power BI Desktop
-https://powerbi.microsoft.com/en-in/downloads/
+* Microsoft Power BI Desktop  
+  https://powerbi.microsoft.com/en-in/downloads/
 
