@@ -15,4 +15,8 @@ as part of the cups.
 # Dataset
 https://drive.google.com/drive/folders/12oHYj0qH2uZD8I13cVDiymTNDYldeJRa?usp=sharing
 
+# Installation
+# Requirement
+Microsoft Power BI Desktop
+https://powerbi.microsoft.com/en-in/downloads/
 
