@@ -7,8 +7,8 @@
 ![Screenshot (76)](https://user-images.githubusercontent.com/119953976/205962032-35d1ae0a-f01a-4b25-ad26-792f387cd7ba.png)
 
 # Description
-1. This Dashboard show KPIs related to FIFA world cup.
-2.The World Cups dataset show all information about all the World Cups in the history,
+* This Dashboard show KPIs related to FIFA world cup.
+* The World Cups dataset show all information about all the World Cups in the history,
 while the World Cup Matches dataset shows all the results from the matches contested
 as part of the cups.
 
